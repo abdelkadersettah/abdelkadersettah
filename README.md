@@ -34,9 +34,9 @@ const Abdelkader = {
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Blender](https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=blender&logoColor=%23ffffff)
 ## 🚀  Projects
-URL Shortening Site [URL Shortening](https://abdelkadersettah.github.io/Url-Shortening/)
-Countries-API Site [Countries-API](https://abdelkadersettah.github.io/countries-api/)
-Easybank landing page [Easybank landing page](https://abdelkadersettah.github.io/Easybank-landing-page/)
+-URL Shortening Site [URL Shortening](https://abdelkadersettah.github.io/Url-Shortening/)
+-Countries-API Site [Countries-API](https://abdelkadersettah.github.io/countries-api/)
+-Easybank landing page [Easybank landing page](https://abdelkadersettah.github.io/Easybank-landing-page/)
 
 <!--
 **abdelkadersettah/abdelkadersettah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
