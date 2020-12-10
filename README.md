@@ -3,7 +3,6 @@
 I'm an independent Front-end Developer that loves to create and share useful content about computer science & the web. 
 ```javascript
 const Abdelkader = {
-  pronouns: "her",
   jobTitle: "Front-end Developer",
   education: "Videogame Design",
   skills: {
