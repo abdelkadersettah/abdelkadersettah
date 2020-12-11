@@ -7,12 +7,12 @@ const Abdelkader = {
   education: "Videogame Design",
   skills: {
     frontend: ["JavaScript", "HTML5", "CSS3", "Git", "Sass",],
-    backend: ["Node.js", "Ruby on Rails"],
+    backend: ["Node.js"],
     design: ["Figma"]
   },
   favorites: ["React"], 
   hobbies: ["Football", "art", "traveling", "coding", "Fitness"],
-  funFact: "I used to as an insurance controller!"
+  funFact: "I used to work as an insurance controller!"
 };
 ```
 
