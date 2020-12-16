@@ -32,10 +32,12 @@ const Abdelkader = {
 ![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm) 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Blender](https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=blender&logoColor=%23ffffff)
+
 ## 🚀  Projects
 
-* URL Shortening Site [URL Shortening](https://abdelkadersettah.github.io/Url-Shortening/)
 * Countries-API Site [Countries-API](https://abdelkadersettah.github.io/countries-api/)
+* roshambo Gamge [roshambo](https://abdelkadersettah.github.io/roshambo/)
+* URL Shortening Site [URL Shortening](https://abdelkadersettah.github.io/Url-Shortening/)
 * Easybank landing page [Easybank landing page](https://abdelkadersettah.github.io/Easybank-landing-page/)
 
 <!--
