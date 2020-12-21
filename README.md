@@ -36,7 +36,7 @@ const Abdelkader = {
 ## 🚀  Projects
 
 * Countries-API Site [Countries-API](https://abdelkadersettah.github.io/countries-api/)
-* roshambo Gamge [roshambo](https://abdelkadersettah.github.io/roshambo/)
+* roshambo Game [roshambo](https://abdelkadersettah.github.io/roshambo/)
 * URL Shortening Site [URL Shortening](https://abdelkadersettah.github.io/Url-Shortening/)
 * Easybank landing page [Easybank landing page](https://abdelkadersettah.github.io/Easybank-landing-page/)
 
