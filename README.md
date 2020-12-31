@@ -4,9 +4,9 @@ I'm an independent Front-end Developer that loves to create and share useful con
 ```javascript
 const Abdelkader = {
   jobTitle: "Front-end Developer",
-  education: "Videogame Design",
+  education: "Front-end",
   skills: {
-    frontend: ["JavaScript", "HTML5", "CSS3", "Git", "Sass",],
+    frontend: ["JavaScript",'React', "HTML5", "CSS3", "Git", "Sass",],
     backend: ["Node.js"],
     design: ["Figma"]
   },
