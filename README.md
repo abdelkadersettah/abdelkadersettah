@@ -6,7 +6,7 @@ const Abdelkader = {
   jobTitle: "Front-end Developer",
   education: "Front-end",
   skills: {
-    frontend: ["JavaScript",'React', "HTML5", "CSS3", "Git", "Sass",],
+    frontend: ["JavaScript",'React','Redux',"HTML5", "CSS3", "Git", "Sass",],
     backend: ["Node.js"],
     design: ["Figma"]
   },
@@ -34,7 +34,9 @@ const Abdelkader = {
 ![Blender](https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=blender&logoColor=%23ffffff)
 
 ## 🚀  Projects
-
+* Badbaado qaran [badbaadoqaran](https://en.badbaadoqaran.org/)
+* Charmant [Charmant](https://charmant-sa.com/)
+* Forlanso [forlanso](https://www.forlanso.com/)
 * Countries-API Site [Countries-API](https://abdelkadersettah.github.io/countries-api/)
 * roshambo Game [roshambo](https://abdelkadersettah.github.io/roshambo/)
 * URL Shortening Site [URL Shortening](https://abdelkadersettah.github.io/Url-Shortening/)
