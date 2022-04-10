@@ -35,6 +35,7 @@ const Abdelkader = {
 
 ## 🚀  Projects
 * Santexpat [Santexpat](https://santexpat.fr/)
+* MWeather [MWeather](https://mweather-pwa.netlify.app/)
 * Expence Tracker App [Expence-Tracker](https://track-your-money-dz.netlify.app/)
 * Unclebills [Unclebills](https://shop.unclebills.ky/)
 * Badbaado qaran [badbaadoqaran](https://en.badbaadoqaran.org/)
