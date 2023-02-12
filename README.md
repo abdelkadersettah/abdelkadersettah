@@ -1,9 +1,11 @@
 ### hey 👋 I'm Abdelkader
 
-I'm an Senior Front-end Developer that loves to create and share useful content about computer science & the web. 
-```javascript
+Experienced senior frontend developer specializing in creating innovative and user-friendly websites using React, JavaScript, TypeScript, jQuery, CSS3, Sass, Bootstrap, HTML5, and Firebase. 
+With a strong background in UI design and project management, I am a solution-oriented leader who excels at guiding frontend developers and delivering projects on time and within budget. 
+My skills in customer relations, attention to detail, and excellent communication make me a valuable asset to any development team.
+```
 const Abdelkader = {
-  jobTitle: "Front-end Developer",
+  jobTitle: "Senior Front-end Developer",
   education: "Front-end",
   skills: {
     frontend: ["Typescript","JavaScript",'React','Redux',"HTML5", "CSS3", "Git", "Sass"],
