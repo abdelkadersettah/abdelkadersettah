@@ -1,13 +1,13 @@
 ### hey 👋 I'm Abdelkader
 
-I'm an independent Front-end Developer that loves to create and share useful content about computer science & the web. 
+I'm an Senior Front-end Developer that loves to create and share useful content about computer science & the web. 
 ```javascript
 const Abdelkader = {
   jobTitle: "Front-end Developer",
   education: "Front-end",
   skills: {
-    frontend: ["JavaScript",'React','Redux',"HTML5", "CSS3", "Git", "Sass",],
-    backend: ["Node.js"],
+    frontend: ["Typescript","JavaScript",'React','Redux',"HTML5", "CSS3", "Git", "Sass"],
+    backend: ["Firebase"],
     design: ["Figma"]
   },
   favorites: ["React"], 
