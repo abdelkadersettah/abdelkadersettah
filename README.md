@@ -40,7 +40,6 @@ const Abdelkader = {
 * MWeather [MWeather](https://mweather-pwa.netlify.app/)
 * Expence Tracker App [Expence-Tracker](https://track-your-money-dz.netlify.app/)
 * Unclebills [Unclebills](https://shop.unclebills.ky/)
-* Badbaado qaran [badbaadoqaran](https://en.badbaadoqaran.org/)
 * Charmant [Charmant](https://charmant-sa.com/)
 * Forlanso [forlanso](https://www.forlanso.com/)
 * Countries-API Site [Countries-API](https://abdelkadersettah.github.io/countries-api/)
