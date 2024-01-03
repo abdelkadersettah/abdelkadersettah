@@ -8,7 +8,7 @@ const Abdelkader = {
   jobTitle: "Senior Front-end Developer",
   education: "Front-end",
   skills: {
-    frontend: ["Typescript","JavaScript",'React','Redux',"HTML5", "CSS3", "Git", "Sass"],
+    frontend: ["Typescript","JavaScript",'React','NextJS','Astro','TailwindCss','Redux',"HTML5", "CSS3", "Git", "Sass"],
     backend: ["Firebase"],
     design: ["Figma"]
   },
