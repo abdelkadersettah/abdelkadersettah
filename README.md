@@ -1,4 +1,4 @@
-### hey 👋 I'm Abdelkader
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%F0%9F%91%8B+I'm+Abdelkader)](https://git.io/typing-svg)
 
 Experienced senior frontend developer specializing in creating innovative and user-friendly websites using React, JavaScript, TypeScript, jQuery, CSS3, Sass, Bootstrap, HTML5, and Firebase. 
 With a strong background in UI design and project management, I am a solution-oriented leader who excels at guiding frontend developers and delivering projects on time and within budget. 
