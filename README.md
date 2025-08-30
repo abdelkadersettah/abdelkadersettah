@@ -91,7 +91,7 @@ const Abdelkader = {
 I'm always interested in collaborating on innovative projects and discussing frontend architecture, team leadership, and modern web technologies.
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kader-settah/)">
+  <a href="https://www.linkedin.com/in/kader-settah/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:settahkader@gmail.com">
